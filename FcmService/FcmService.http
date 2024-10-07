@@ -1,0 +1,6 @@
+@FcmService_HostAddress = http://localhost:5141
+
+GET {{FcmService_HostAddress}}/fcmservice/
+Accept: application/json
+
+###
